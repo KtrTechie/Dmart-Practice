@@ -1,3 +1,2 @@
 Hello 
-This file contains deployement tools..
-Harika .
+This file contains deployement tools...
